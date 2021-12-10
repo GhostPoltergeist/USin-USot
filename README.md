@@ -3,15 +3,13 @@ Room Assignments Systems
 
 Room Assignment entails searching and assigning to a guest an available room in a given room type. Specific rooms and pricing may be assigned to the guest based on reservation information. makes reservations in the morning and pre-assigns rooms
 
-#USAGE
+# >>: USAGE :<<
 ```
-
 git clone https://github.com/GhostPoltergeist/USin-USot.git
 
 cd USin-USot
 
 python USin-USot.py
-
 ```
 
 [![Instagram Badge](https://img.shields.io/badge/-sh.ay657-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sh.ay657/)](https://instagram.com/sh.ay657)
