@@ -1,7 +1,8 @@
 # USin-USot
 Room Assignments Systems
 
-Room Assignment entails searching and assigning to a guest an available room in a given room type. Specific rooms and pricing may be assigned to the guest based on reservation information. makes reservations in the morning and pre-assigns rooms
+Room Assignment entails searching and assigning to a guest an available room in a given room type. Specific rooms and pricing may be assigned to the guest based on reservation information. 
+makes reservations in the morning and pre-assigns rooms
 
 # >>: USAGE :<<
 ```
